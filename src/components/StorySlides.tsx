@@ -162,7 +162,7 @@ function StorySlides({ onComplete, onBack }: StorySlidesProps) {
           </h3>
           <p className="text-xl md:text-2xl text-center text-gray-700 max-w-3xl mx-auto leading-relaxed">
             She has touched so many lives with her kindness, her smile, and her genuine heart.
-            Every day she makes the world a better place just by being herself.
+            Every day she makes the world a better place just by being herself. If you ever doubt yourself, just look at these photos to see how amazing you are.
           </p>
           <div className="max-w-4xl mx-auto">
             <div className="grid grid-cols-3 gap-6 md:gap-8">
